@@ -1,3 +1,2 @@
-👋 Hi, I'm @BaraaMohmmad!
-
-I'm a software developer passionate about crafting intuitive web interfaces and optimizing database performance. My GitHub showcases projects spanning front-end development with HTML, CSS, and JavaScript, as well as backend work in Python and SQL🚀
+👋 Hi, I'm Baraa Mohammad — a Computer Engineering graduate passionate about building smart and efficient software.
+I develop full-stack web apps, design intuitive UIs, and integrate IoT systems to bring ideas to life 🚀
